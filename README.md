@@ -1,5 +1,5 @@
 ## Craigslist project
 #### Create 2 automated test cases
-* retrun search results 
+* return search results 
 * post an Ad
 
